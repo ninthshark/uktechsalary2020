@@ -1,0 +1,25 @@
+.container {
+    margin: auto;
+    width: 100%;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+h1 {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    line-height: 85%;
+}
+.second_title {
+    /* margin-top: 0;
+    padding-top: 0; */
+    color: green;
+    display: block;
+    
+}
